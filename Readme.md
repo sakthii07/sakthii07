@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sakthivel
 
 Software Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" height="359" width="345" frameborder="0" scrolling="no">                                                 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" height="359" width="345" frameborder="0" scrolling="no">                                                 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Placements in frontend developer
 - 💬 Ask me about Tech
